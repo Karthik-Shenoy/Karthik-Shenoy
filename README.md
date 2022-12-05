@@ -12,7 +12,7 @@ I'm now seeking to enhance my full-stack web development skills while also learn
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Karthik-Shenoy&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-Shenoy&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=hotizontal&theme=dark)
 
 
 ---
